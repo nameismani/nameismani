@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @nameismani
-- 👀 I’m interested in Front end web developement and Software testing (Manual testing).
-- 🌱 I’m currently learning HTML5,CSS3.
-- 💞️ I’m looking to collaborate with  a reputed  IT Company where i can learn and develop my skills.
-- 📫 How to reach me ... You can reach me @9566195492 or @ 9962453404 or
-(https://www.linkedin.com/in/manikandan-b-517936171) in linkedin accouont
+- 👋 Hi, I'm @nameismani
+- 👀 I'm interested in the Web Application Developer role.
+- 🌱 I'm currently having 6months work experience as a Web Application Developer Stacks I know are HTML5,CSS3,JAVASCRIPT(DOM),REACT JS,NODE(EXPRESS,EJS),MYSQL,MONGODB,SOCKET.IO.
+- 💞️ I'm looking to work with a reputed IT company where I can learn and develop my skills.
+- How to reach me ... You can reach me @9566195492 or @ 9962453404 or
+(https://www.linkedin.com/in/manikandan-b-517936171) in linkedin account
 
 <!---
 nameismani/nameismani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

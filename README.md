@@ -22,7 +22,7 @@ I'm excited to contribute to a **reputed IT company** that aligns with my skills
 
 ### 📞 How to Reach Me:
 - Phone: **9566195492** / **9962453404**
-- LinkedIn: [Manikandan B](https://www.linkedin.com/in/manikandan-b-517936171)
+- LinkedIn: [Manikandan B](https://www.linkedin.com/in/nameismani)
 
 📅 **Last Updated:** January 8, 2025  
 

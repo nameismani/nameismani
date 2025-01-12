@@ -1,4 +1,3 @@
-Here's your updated GitHub profile `README.md` content with the requested modifications:
 
 ---
 

@@ -1,4 +1,4 @@
----
+# About Me
 
 * 👋 Hi, I'm **Manikandan B** *(alias: @nameismani)*
 * 👀 I'm passionate about Web Development and always eager to learn new technologies.
@@ -8,17 +8,19 @@
 
 * **Primary Skills:**
   Next.js, TypeScript, TypeORM, Express, Mongoose, AWS (Basics)
-
 * **Secondary Skills:**
   Python (Flask, FastAPI - Basics), AI/ML (Basics), Java (Basics), React Native (Basics)
 
 ### 💡 Notable Projects:
 
 I have developed several projects independently. One notable project is **Personal Assistant**:
+
 👉 **Live Link:** [Personal Assistant](https://personal-assistant-sigma-ashen.vercel.app/)
+
 It showcases my skills and enthusiasm for building innovative solutions. Feel free to explore it to learn more about my abilities.
 
 Another highlighted project is my **Portfolio Website**, developed and deployed using **AWS Amplify**, with a **custom domain configured via Route 53**.
+
 👉 **Explore Portfolio:** [Portfolio Website](https://portfolio.nameismani.com/)
 
 ### 💼 Career Goals:

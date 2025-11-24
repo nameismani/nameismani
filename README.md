@@ -1,6 +1,6 @@
 ---
 
-* 👋 Hi, I'm **Manikandan B** *(alias: "@nameismani")*
+* 👋 Hi, I'm **Manikandan B** *(alias: @nameismani)*
 * 👀 I'm passionate about Web Development and always eager to learn new technologies.
 * 🌱 I have **over 2 years of experience** as a Web Application Developer. My primary skills include the **MERN Stack** (MongoDB, Express.js, React.js, and Node.js).
 
